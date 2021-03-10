@@ -1,0 +1,63 @@
+[
+    
+    {
+        "id":1,
+        "type":"Small Room",
+        "nameRoom":"Tiger Home",
+        "image":"https://img.vn/uploads/thuvien/viber-image-2019-08-06-10-40-38-jpg-20190807145944LO3qbinQdG.jpg",
+        "content":"This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "price":310,
+        "ft":415,
+        "personMax":4
+    },
+    {
+        "id":2,
+        "type":"Big Room",
+        "nameRoom":"Super Home",
+        "image":"https://img.vn/uploads/thuvien/viber-image-2019-08-06-10-40-38-jpg-20190807145944LO3qbinQdG.jpg",
+        "content":"This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "price":304,
+        "ft":152,
+        "personMax":4
+    },
+    {
+        "id":3,
+        "type":"Perfect Room",
+        "nameRoom":"Gan Home",
+        "image":"https://img.vn/uploads/thuvien/viber-image-2019-08-06-10-40-38-jpg-20190807145944LO3qbinQdG.jpg",
+        "content":"This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "price":30,
+        "ft":15,
+        "personMax":4
+    },
+    {
+        "id":4,
+        "type":"Vip Room",
+        "nameRoom":"Popur Home",
+        "image":"https://img.vn/uploads/thuvien/viber-image-2019-08-06-10-40-38-jpg-20190807145944LO3qbinQdG.jpg",
+        "content":"This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "price":830,
+        "ft":155,
+        "personMax":2
+    },
+    {
+        "id":5,
+        "type":"Liger Room",
+        "nameRoom":"Romucar Home",
+        "image":"https://img.vn/uploads/thuvien/viber-image-2019-08-06-10-40-38-jpg-20190807145944LO3qbinQdG.jpg",
+        "content":"This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "price":30,
+        "ft":15,
+        "personMax":4
+    },
+    {
+        "id":6,
+        "type":"small Room",
+        "nameRoom":"Romucar Home",
+        "image":"https://img.vn/uploads/thuvien/viber-image-2019-08-06-10-40-38-jpg-20190807145944LO3qbinQdG.jpg",
+        "content":"This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "price":30,
+        "ft":15,
+        "personMax":4
+    }
+]
